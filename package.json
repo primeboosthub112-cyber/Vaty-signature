@@ -1,0 +1,8 @@
+{
+  "name": "vaty-signature",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p build && echo '<!doctype html><meta charset="utf-8"><title>Vaty-signature</title><h1>Vaty-signature</h1><p>Deployed via workflow</p>' > build/index.html"
+  }
+}
